@@ -1,44 +1,10 @@
 
-.photo{
- max-width: 10pc; 
- margin: 0 auto;
- width: 500px;
 
 
-}
 
-.menu
-{
-    
-border-color: blue;
-     background-position: center;
-     margin: 10PX;
-     width: 500PX;
-     font-size: 20px;
-  flood-color: blue;
-  color: white;
-  
-     font-style: oblique;
-     margin: 0 auto;
-}
-#big_wrapper1
-{
-    width: 500px;
-    color: black;
-    font-size: 15px;
-    font-style: italic;
-    margin: 0 auto;
-}
-#big_wrapper2
-{
-    width: 500px;
-    color: blue;
-    font-size: 10px ;
-    font-style: italic;
-    margin: 0 auto;
-}
+
 .section1 {
-    font-style:italic;
+    font-style:normal;
     background-color: blue;
     font-size: 20px;
     background-position: center;
@@ -50,55 +16,50 @@ border-color: blue;
 }
 .section2
 {
-    font-size: x-small;
-    background-color: blue;
+    font-size: 10px;
+    
     font-style: normal;
     background-position: center;
-    margin: 10PX;
+    margin: auto;
     width: 500PX;
-    margin: 0 auto;
+    
+}
+
+
+
+.nom {
+    font-size: 20px;
+    font-style:oblique;
+    color:black;
+}
+
+
+
+
+
+  h1{
+      font-size: 15PX;
+      font-family: tahoma;
+  }
+  
+h2
+{
+    font-size: 10px;
+    font-style: italic;
+    color: blue;
+}
+
+.image_profil{
+    max-width: 10pc; 
+    
+    width: 500px;
+    border-image-repeat: round;
+    margin-right: auto;
+  
 }
 .section0
 {
     background-color: blue;
-    margin: 10PX;
-    width: 500PX;
-    margin: 0 auto;
+    margin-inline-end: 50px;
 
 }
-#wrap
-{
-margin: 0 auto;
-text-align: center;
-}
-#nheader
-{
-
-}
-.nom {
-    font-size: 20px;
-    font-style:oblique;
-    color:cornsilk;
-}
-
-u1{
-     background-color: blue;
-     margin: 10PX;
-     width: 500PX;
-     margin: 0 auto;
-     padding: 10px;
-     background-position: center;
-    
- 
-    
-}
-
-.text_para
-{
-font-family: tahoma;
-}
-#paragraf
-{
-    background-attachment: fixed;
-}
-
